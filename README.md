@@ -1,4 +1,4 @@
-# That one student that doesn't seem to like any subject.
+# That one student that doesn't <b>seem</b> to like any subject.
 
 I'm a student in SM Sains Tuanku Munawir. Im 13 and I have quite the interest in Computer Sains, Programming and Art Class. I also enjoy playing multiplayer competitive online games such as:
 
