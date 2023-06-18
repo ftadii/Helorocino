@@ -1,4 +1,4 @@
-# That one student that doesn't seem to like any subject
+# Adi Akmal
 
 I'm a student in **[Tuanku Munawir Science School](https://www.saser.edu.my/utama/)**. I have quite the interest in Computer Science, Programming and Art Class.
 
@@ -9,4 +9,3 @@ Valorant <img src="https://logodownload.org/wp-content/uploads/2020/06/valorant-
 CS: Global Offensive <img src="https://www.freepnglogos.com/uploads/counter-strike-png-logo/counter-strike-symbol-png-logo-11.png" width = 55></a><br><br>
 
 
-Lorem ipsum dolor sit amet.
